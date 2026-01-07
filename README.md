@@ -26,7 +26,7 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 
 ## Dashboard
 
-![Uploading Dashboard.png…](https://github.com/users-attachments/assets/5826cd81-b51c-420b-86e6-8b830982d77f)
+![Uploading Dashboard.png…]()
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
@@ -36,4 +36,4 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - More than 90% of the products delivered
 
 ## Final Conclusion:
-To improve the sales of Vrinda Store, a strategic marketing plan focused on women aged 30-49 years residing in Maharashtra, Karnataka, and Uttar Pradesh should be implemented. This demographic represents a key consumer segment, as they often make significant household and lifestyle purchases. The approach should include targeted digital marketing campaigns and personalized promotions to capture their attention.
+To drive sales growth for Vrinda Store, a strategic marketing plan should prioritize women aged 30–49 years in Maharashtra, Karnataka, and Uttar Pradesh. This demographic represents a high-value consumer segment, frequently responsible for substantial household and lifestyle purchases. The strategy should leverage targeted digital marketing campaigns and personalized promotions to effectively engage this audience and maximize conversion rates.
