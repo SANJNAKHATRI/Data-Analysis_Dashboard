@@ -16,17 +16,17 @@ The Vrinda Store wants to create an annual sales report for 2022. So that, the o
 - Highest selling category?
 - Percentage of Total Orders delivered
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/SANJNAKHATRI/Data-Analysis_Dashboard/blob/main/Dashboard.png">View Dashboard</a>
 
 ## Process
-- Verify data for any missing values and anomalies, and sort out the same.
-- Made sure data is consistent and clean with respect to data type, data format and values used.
-- Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Verified the dataset for missing values, anomalies, and inconsistencies, and performed necessary data correction and preprocessing.
+- Ensured data integrity by maintaining consistency in data types, formats, and standardized values throughout the dataset.
+- Designed and generated pivot tables aligned with analytical questions and reporting requirements.
+- Integrated all pivot tables into a unified interactive dashboard, applying slicers to enable dynamic and real-time data exploration.
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Uploading Dashboard.png…]()
 
 ## Project Insight
 - Women customers are more likely to buy products compared to men (~65%).
